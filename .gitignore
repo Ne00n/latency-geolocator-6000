@@ -1,1 +1,6 @@
 GeoLite2*
+rib.*
+asn.dat
+cache.json
+targets.json
+match.json
